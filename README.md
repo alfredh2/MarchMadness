@@ -36,7 +36,7 @@ To run this project, follow these steps:
    ```bash
    jupyter notebook
    ```
-3. Open the `CollegeBasketballPowerRating.ipynb` notebook.
+3. Open the `march_madness.ipynb` notebook.
 4. Run the cells in the notebook to see the analysis and model predictions.
 
 ## Results
