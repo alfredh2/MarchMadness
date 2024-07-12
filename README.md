@@ -1,4 +1,4 @@
-# STAT207 Mini-Project #2 - College Basketball Power Rating Predictor
+# College Basketball Power Rating Predictor
 
 ## Introduction
 Welcome to the College Basketball Power Rating Predictor Project! This project aims to build a predictive model that effectively predicts the power rating of a men's college basketball team for new datasets. The core of this project is implemented in a Jupyter Notebook.
